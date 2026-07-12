@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/gokul0410/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gokul0410/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1331-rank-transform-of-an-array](https://github.com/gokul0410/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gokul0410/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/gokul0410/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
