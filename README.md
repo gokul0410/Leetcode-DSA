@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokul0410/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/gokul0410/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/gokul0410/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -89,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokul0410/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
