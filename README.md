@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/gokul0410/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -146,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Tree
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/gokul0410/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/gokul0410/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
