@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/gokul0410/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/gokul0410/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/gokul0410/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokul0410/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -71,21 +72,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gokul0410/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gokul0410/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/gokul0410/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/gokul0410/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gokul0410/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -174,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/gokul0410/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
