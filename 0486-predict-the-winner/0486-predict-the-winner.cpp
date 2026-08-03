@@ -13,7 +13,7 @@ public:
         int n= nums.size();
         //player one has adv of making move first
         vector<vector<int>>dp(n,vector<int>(n,INT_MIN));
-        //points diff og player1 if two of them plays optimally
+        //points (howmuch high/low frm ply2) player1 if two of them plays optimally
         int points=solve(nums,dp,0,n-1);
         if(points>=0) return true;
         return false;  //even after the adv if player 1 fails
