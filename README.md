@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/gokul0410/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokul0410/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/gokul0410/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokul0410/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gokul0410/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/gokul0410/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0486-predict-the-winner](https://github.com/gokul0410/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/gokul0410/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gokul0410/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gokul0410/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gokul0410/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/gokul0410/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gokul0410/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gokul0410/Leetcode-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gokul0410/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -200,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/gokul0410/Leetcode-DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/gokul0410/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
