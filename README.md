@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/gokul0410/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3310-remove-methods-from-project](https://github.com/gokul0410/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gokul0410/Leetcode-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gokul0410/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3310-remove-methods-from-project](https://github.com/gokul0410/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/gokul0410/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3310-remove-methods-from-project](https://github.com/gokul0410/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Counting
 |  |
 | ------- |
