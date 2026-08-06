@@ -199,11 +199,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/gokul0410/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/gokul0410/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Recursion
 |  |
