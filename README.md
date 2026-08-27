@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gokul0410/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/gokul0410/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/gokul0410/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/gokul0410/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gokul0410/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/gokul0410/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/gokul0410/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 ## Range Minimum/Maximum Query
 |  |
