@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gokul0410/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/gokul0410/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Breadth-First Search
 |  |
 | ------- |
