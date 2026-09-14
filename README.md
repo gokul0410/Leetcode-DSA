@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0396-rotate-function](https://github.com/gokul0410/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/gokul0410/Leetcode-DSA/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/gokul0410/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokul0410/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/gokul0410/Leetcode-DSA/tree/master/3360-stone-removal-game) |
@@ -299,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0306-additive-number](https://github.com/gokul0410/Leetcode-DSA/tree/master/0306-additive-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gokul0410/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
