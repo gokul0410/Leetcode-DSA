@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/gokul0410/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0396-rotate-function](https://github.com/gokul0410/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/gokul0410/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/gokul0410/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gokul0410/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/gokul0410/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/gokul0410/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/gokul0410/Leetcode-DSA/tree/master/0396-rotate-function) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/gokul0410/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gokul0410/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/gokul0410/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gokul0410/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -318,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/gokul0410/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/gokul0410/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
