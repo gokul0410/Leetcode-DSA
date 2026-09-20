@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/gokul0410/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/gokul0410/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [3360-stone-removal-game](https://github.com/gokul0410/Leetcode-DSA/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/gokul0410/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
