@@ -11,13 +11,13 @@ public:
                     prime[j] = false;
             }
         }
-        set<vector<int>>st;
+        vector<vector<int>>result;
         for(int i=2;i<=n/2;i++){
             if(prime[i] && prime[n-i]){
-                st.insert({i,n-i});
+                result.push_back({i,n-i});
             }
         } 
-        vector<vector<int>>result(st.begin(),st.end());
+        sort(result.begin(),result.end());
         return result;
     }
 };
