@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/gokul0410/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/gokul0410/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/gokul0410/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/gokul0410/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/gokul0410/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/gokul0410/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/gokul0410/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/gokul0410/Leetcode-DSA/tree/master/0396-rotate-function) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gokul0410/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gokul0410/Leetcode-DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/gokul0410/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/gokul0410/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/gokul0410/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Tree
 |  |
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/gokul0410/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/gokul0410/Leetcode-DSA/tree/master/2223-sum-of-scores-of-built-strings) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
