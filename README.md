@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/gokul0410/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/gokul0410/Leetcode-DSA/tree/master/3731-find-missing-elements) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/gokul0410/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3903-smallest-stable-index-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
