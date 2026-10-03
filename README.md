@@ -390,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/gokul0410/Leetcode-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
