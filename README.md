@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/gokul0410/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/gokul0410/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0032-longest-valid-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/gokul0410/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0306-additive-number](https://github.com/gokul0410/Leetcode-DSA/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gokul0410/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/gokul0410/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/gokul0410/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gokul0410/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/gokul0410/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
