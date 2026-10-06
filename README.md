@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/gokul0410/Leetcode-DSA/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gokul0410/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/gokul0410/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul0410/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/gokul0410/Leetcode-DSA/tree/master/2223-sum-of-scores-of-built-strings) |
@@ -262,11 +263,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gokul0410/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/gokul0410/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul0410/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gokul0410/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul0410/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/gokul0410/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul0410/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Database
 |  |
 | ------- |
