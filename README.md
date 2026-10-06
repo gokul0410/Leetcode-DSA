@@ -407,4 +407,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/gokul0410/Leetcode-DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/gokul0410/Leetcode-DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/gokul0410/Leetcode-DSA/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/gokul0410/Leetcode-DSA/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
