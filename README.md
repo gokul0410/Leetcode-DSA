@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokul0410/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/gokul0410/Leetcode-DSA/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul0410/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokul0410/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul0410/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/gokul0410/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokul0410/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul0410/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokul0410/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Database
 |  |
 | ------- |
