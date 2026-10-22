@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gokul0410/Leetcode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3790-smallest-all-ones-multiple](https://github.com/gokul0410/Leetcode-DSA/tree/master/3790-smallest-all-ones-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/gokul0410/Leetcode-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gokul0410/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/gokul0410/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gokul0410/Leetcode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3790-smallest-all-ones-multiple](https://github.com/gokul0410/Leetcode-DSA/tree/master/3790-smallest-all-ones-multiple) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Linked List
 |  |
