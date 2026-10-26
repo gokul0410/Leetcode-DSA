@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gokul0410/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gokul0410/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gokul0410/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gokul0410/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/gokul0410/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gokul0410/Leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3310-remove-methods-from-project](https://github.com/gokul0410/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gokul0410/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/gokul0410/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gokul0410/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/gokul0410/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gokul0410/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/gokul0410/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gokul0410/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/gokul0410/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gokul0410/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
