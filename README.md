@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gokul0410/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gokul0410/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gokul0410/Leetcode-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gokul0410/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gokul0410/Leetcode-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gokul0410/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gokul0410/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/gokul0410/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gokul0410/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gokul0410/Leetcode-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
