@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/gokul0410/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/gokul0410/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/gokul0410/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
+| [1922-count-good-numbers](https://github.com/gokul0410/Leetcode-DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokul0410/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/gokul0410/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 | [2761-prime-pairs-with-target-sum](https://github.com/gokul0410/Leetcode-DSA/tree/master/2761-prime-pairs-with-target-sum) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/gokul0410/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/gokul0410/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/gokul0410/Leetcode-DSA/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gokul0410/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
