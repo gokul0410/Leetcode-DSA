@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokul0410/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/gokul0410/Leetcode-DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/gokul0410/Leetcode-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/gokul0410/Leetcode-DSA/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gokul0410/Leetcode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/gokul0410/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1630-arithmetic-subarrays](https://github.com/gokul0410/Leetcode-DSA/tree/master/1630-arithmetic-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gokul0410/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/gokul0410/Leetcode-DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gokul0410/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gokul0410/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/0229-majority-element-ii) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/gokul0410/Leetcode-DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul0410/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Tree
 |  |
