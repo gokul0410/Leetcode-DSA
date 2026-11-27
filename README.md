@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/gokul0410/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gokul0410/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokul0410/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1678-goal-parser-interpretation](https://github.com/gokul0410/Leetcode-DSA/tree/master/1678-goal-parser-interpretation) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/gokul0410/Leetcode-DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/gokul0410/Leetcode-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/gokul0410/Leetcode-DSA/tree/master/2223-sum-of-scores-of-built-strings) |
